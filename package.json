@@ -1,0 +1,11 @@
+{
+  "name": "tubejs",
+  "version": "1.0.0",
+  "description": "smart surfer for tube sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Surya Mukhi <darksublimethoughts@gmail.com>",
+  "license": "ISC"
+}
